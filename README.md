@@ -1,2 +1,2 @@
-# Single-and-ready-to-mingle
+#Mingle
 Dating app
